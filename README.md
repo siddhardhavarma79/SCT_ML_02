@@ -130,19 +130,7 @@ SCT_ML_02/
 
 ---
 
-## Author
 
-**MASETTY ABHINAY**
-
-B.Tech – Artificial Intelligence and Machine Learning (AI & ML)
-
-Sreenidhi Institute of Science and Technology (SNIST)
-
-SkillCraft Technology Machine Learning Intern
-
-Email: [masettyabhinay@gmail.com](mailto:masettyabhinay@gmail.com)
-
-LinkedIn: https://www.linkedin.com/in/masetty-abhinay-a796b132b
 
 ---
 
